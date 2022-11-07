@@ -5,6 +5,7 @@ function App() {
 
 
   const openWindow = () => {
+    console.log("=====>");
     // const { BrowserWindow } = global.remote;
     // let win = new BrowserWindow({ width: 800, height: 600 });
     // win.loadUrl("https://www.baidu.com");
